@@ -1,0 +1,181 @@
+/* h1 {
+    text-decoration: line-through;
+    color: green;
+}
+*/
+
+/*Descendant Combinator 
+
+section p {
+
+   color:gray;
+
+}
+
+/*Child Combinator only works for tdrect shild of the first selector
+
+section > p{
+
+    color:purple;
+
+}
+
+*/
+
+/* Adjacent Cominator 
+
+p + div {
+
+    color: blue;
+
+}
+
+*/
+
+/* General Sibiling Combinator
+
+h2 ~ p {
+ 
+    color:red;
+
+} */
+
+/*class selector*/
+
+/*id selector
+
+*{ Organize 
+
+
+}
+
+body{
+
+
+}
+
+*/
+/* id selector*
+#hallmark {
+
+    background-color: rgba(137, 128, 160, .6);
+
+}
+
+class selector
+
+
+.greeting {
+
+
+    font-size: 5em;
+    color:pink;
+}
+
+
+
+/* unvisited link 
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+
+/* visited link
+a:visited {
+  color: green;
+}
+
+
+
+/* mouse over link 
+a:hover {
+  color: hotpink;
+}
+
+
+/* selected link 
+a:active {
+  color: blue;
+} */
+
+/*
+
+
+/* This is the first-child example for pseudo classes below 
+
+p:first-child{
+
+    background: lightgreen;
+
+}
+
+h2:first-child{
+
+background: red;
+
+}
+ */
+
+/*This is the last child example on slide 34
+
+p:last-child{
+
+
+    background: pink;
+}
+
+ /* This is for nth childexaple below on slide 35 
+
+li:nth-child(1) {color:blue;}
+li:nth-child(2) {color:green;}
+li:nth-child(3) {color: orange;}
+li:nth-child(4) {color:blanchedalmond;}
+
+*/
+
+
+/* table {
+border-collapse: collapse;
+width:100%
+text-align:center;
+}
+
+td,th {
+
+border: 1px solid red;
+
+} */
+
+table {
+
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    border: 5px solid green;
+}
+
+th,
+td {
+
+
+    border: 1px solid red;
+
+}
+
+td:hover {
+
+    background-color: lightcoral;
+    color: white;
+}
+
+.flex-container1 {
+
+    justify-content: left;
+
+}
+
+.flex-container2 {
+
+    align-content: center;
+}
