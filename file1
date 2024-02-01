@@ -1,0 +1,37 @@
+Personal Tracking System
+
+
+Name: Sajdah Mustafa
+Date: 1/16/24
+Instructors: Teo Marcelo and Bryan Santos
+Topics: Introduction
+
+
+Code:
+
+
+$Block 1
+
+let message = "First day of class"
+console.log(message)
+// prints message text
+
+
+$Block 2
+
+let message = "First day of class"
+console.log(message)
+// prints message text
+
+
+
+
+
+Key Takeaways:
+
+Understand the syllabus, key takeaways/lessons, and take the lesson and turn it into an actionable task for my learning and growth. 
+
+Tasks:
+
+Insert this into VS code, GitHub, and commit changes into git hub for practice today on Jan. 31st, 2024 to backtrack and keep a consistent log from day 1. This is the start of my tracking system. 
+
